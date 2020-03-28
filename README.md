@@ -1,3 +1,3 @@
-# SAR_projects
+# Remote_Sensing_projects
 
-Python programs made for prossesing and visualization SAR datas. This is project was part of my school project in remote sensing.
+Programs are part of remote sensing project in course.
