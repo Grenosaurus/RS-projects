@@ -1,4 +1,4 @@
-# Workshop 7 SAR Polarimetry Made: Jauaries Loyala -- 28.11.2019)
+# Workshop 7 SAR Polarimetry
 
 # The needed packages
 import pandas as pd
