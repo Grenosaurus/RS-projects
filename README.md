@@ -1,3 +1,3 @@
 # Remote_Sensing_projects
 
-Programs are part of remote sensing project in RS school course.
+Programs are part of remote sensing project in RS course.
