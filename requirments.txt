@@ -1,0 +1,8 @@
+math
+pandas
+scipy
+numpy
+matplotlib
+os
+ipywidgets
+functools
